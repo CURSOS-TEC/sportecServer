@@ -14,25 +14,25 @@
     ]
   },
   "User": {
-    "dataSource": "db"
+    "dataSource": "mongodata_source"
   },
   "AccessToken": {
-    "dataSource": "db",
+    "dataSource": "mongodata_source",
     "public": false
   },
   "ACL": {
-    "dataSource": "db",
+    "dataSource": "mongodata_source",
     "public": false
   },
   "RoleMapping": {
-    "dataSource": "db",
+    "dataSource": "mongodata_source",
     "public": false,
     "options": {
       "strictObjectIDCoercion": true
     }
   },
   "Role": {
-    "dataSource": "db",
+    "dataSource": "mongodata_source",
     "public": false
   },
   "Sport": {
