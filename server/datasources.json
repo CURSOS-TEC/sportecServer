@@ -1,0 +1,22 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "mongodata_source": {
+    "host": "ds255262.mlab.com",
+    "port": 55262,
+    "url": "mongodb://soaserver:soa4ID@ds255262.mlab.com:55262/sporttec",
+    "database": "sporttec",
+    "password": "soa4ID",
+    "name": "mongodata_source",
+    "user": "soaserver",
+    "connector": "mongodb"
+  },
+  "testInMemory": {
+    "name": "testInMemory",
+    "localStorage": "dbmemory",
+    "file": "",
+    "connector": "memory"
+  }
+}
