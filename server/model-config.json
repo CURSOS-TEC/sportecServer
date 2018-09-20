@@ -38,5 +38,9 @@
   "Sport": {
     "dataSource": "mongodata_source",
     "public": true
+  },
+  "SoaUser": {
+    "dataSource": "mongodata_source",
+    "public": true
   }
 }
