@@ -15,7 +15,7 @@
       "type": "string",
       "required": true
     },
-    "sports": {
+    "sportsPrefered": {
       "type": ["string"],
       "required": true
     }
