@@ -46,5 +46,9 @@
   "SportArticle": {
     "dataSource": "mongodata_source",
     "public": true
+  },
+  "Team": {
+    "dataSource": "mongodata_source",
+    "public": true
   }
 }
