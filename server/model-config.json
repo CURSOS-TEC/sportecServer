@@ -42,5 +42,9 @@
   "SoaUser": {
     "dataSource": "mongodata_source",
     "public": true
+  },
+  "SportArticle": {
+    "dataSource": "mongodata_source",
+    "public": true
   }
 }

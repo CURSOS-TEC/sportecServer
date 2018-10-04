@@ -16,7 +16,9 @@
       "required": true
     },
     "sportsPreferred": {
-      "type": ["string"],
+      "type": [
+        "string"
+      ],
       "required": true
     }
   },
